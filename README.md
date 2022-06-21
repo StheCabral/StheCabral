@@ -1,7 +1,9 @@
 ### Oie, eu sou Sthe!
 
-- :comp Estudo Ciência da Computação na UFPE (git da uf)
-- 💚 Atuo como desenvolvedora do citi (gif do citi)
+- 💻 I'm a Computer Science Student at UFPE 
+- 💚 I’m currently working as a software developer at CITi
+- 🤯 I'm dedicated to learn Javascript
+- 😄 Pronouns: she/her
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
