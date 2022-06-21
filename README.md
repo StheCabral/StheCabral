@@ -4,11 +4,10 @@
 - 💚 I’m currently working as a software developer at CITi
 - 🤯 I'm dedicated to learn Javascript
 - 😄 Pronouns: she/her
-- 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StheCabral&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheCabral&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StheCabral&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheCabral&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
 <!--
