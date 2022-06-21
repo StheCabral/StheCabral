@@ -5,7 +5,7 @@
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheCabral&layout=compact&langs_count=7&theme=noctis"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheCabral&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
