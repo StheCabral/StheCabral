@@ -1,26 +1,18 @@
-### Oie, eu sou Sthe!
+# Hi, I'm Sthe Cabral!
+
+
+<img src="https://c.tenor.com/gzTMn4hPke8AAAAC/hermione-granger-andyouare.gif"/>
+
+
 
 - 💻 I'm a Computer Science Student at UFPE 
-- 💚 I’m currently working as a software developer at CITi
+- 💚 I’m currently working as a Software Developer at CITi
 - 🤯 I'm dedicated to learn Javascript
-- 😄 Pronouns: she/her
+- 💬 Pronouns: she/her
+- ♀️ Engaged in fighting the gender gap in STEM
+- 🔮 I love comedy series and dogs
 <div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StheCabral&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheCabral&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-
-<!--
-**StheCabral/StheCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
