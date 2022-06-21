@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oie, eu sou Sthe!
+
+- :comp Estudo Ciência da Computação na UFPE (git da uf)
+- 💚 Atuo como desenvolvedora do citi (gif do citi)
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 <!--
 **StheCabral/StheCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
