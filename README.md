@@ -5,7 +5,7 @@
 
 
 
-- 💻 I'm a Computer Science student at UFPE 
+- 💻 I'm a Computer Science student at CIn - UFPE 
 - 💚 I’m currently working as a Software Developer at CITi
 - 🤯 I'm dedicated to learn Javascript
 - 💬 Pronouns: she/her
